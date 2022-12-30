@@ -28,7 +28,7 @@ You may need the following key libraries to work with the program.
 
 ## Usage
 
-To use the Google Search Analyzer application, clone the repository in your local workspace. Next, open [Google Colab](https://colab.research.google.com/) and upload **forecasting_net_prophet.ipynb**, which will load similar to a Jupyter Notebook web console. You may be prompted to upload csv files at three different stages. The CSV files are contained inside the Resource folder.
+To use the Google Search Analyzer application, clone the repository in your local workspace. Next, open [Google Colab](https://colab.research.google.com/) and upload **forecasting_net_prophet.ipynb**, which will load similar to a Jupyter Notebook web console. You may be prompted to upload csv files at three different stages. The CSV files are contained inside the Resources folder.
 
 ![Google Colab](Images/app_usage.png)
 
